@@ -8,7 +8,7 @@ These patterns reflect our journey of working on Microsoft's Azure API Stewardsh
 
 We still have a long way to go. In many ways, we are still at the outset of our journey. We are constantly learning from our service partners, uncovering new requirements, and figuring out edge cases. It's our hope that you will join us on this journey, share your experiences, and help us all [grow an orchard](./Grow-an-Orchard.md).
 
-* "Grow an Orchard" -- Stewardship vs. Governance
+* "[Grow an Orchard](./Grow-an-Orchard.md)" -- Stewardship vs. Governance
   * Educate, enable, empower
   * Measure results
   
@@ -43,8 +43,9 @@ We still have a long way to go. In many ways, we are still at the outset of our 
 * " ?? " -- Idiomatic implementations & SDKs
 
 * " ?? " -- Invest in API Stewardship. 
+* "Whiteboard compatible" -- Are you building the right thing? Establish a practice of previewing APIs. 
 * "50 Shades of Grey" -- How to do an API review
-* "Whiteboard compatible" -- Are you building the right thing? Establish a practice of previewing APIs.  
+* "Hold the line" -- Enforcing your breaking change policy
 
 * "Wash-Rinse-Repeat" -- Automation for scale
 * "Trust, but verify" -- "Live" validation
