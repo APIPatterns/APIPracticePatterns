@@ -19,3 +19,10 @@ The [New Oxford American Dictionary](https://www.oxfordreference.com/) provides 
 > WIP -- more info on the approaches here
 
 The reality is that, as your APIs grow and change--especially over time--you will need to employ both models. You will need to [Hold the line](./Hold-the-line.md) to ensure that breaking changes are effectively identified, managed, communicated. But you won't be able to scale without educating, enabling, and empowering API Stewards within your company.
+
+* Educate. Enable. Empower.
+
+## [Tend the garden](tend-the-garden.md)
+Invest in stewardship
+
+* Measure results
