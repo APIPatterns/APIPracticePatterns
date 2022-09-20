@@ -1,28 +1,18 @@
 # Grow an Orchard
 
-Companies like [Atlassian](https://developer.atlassian.com/), [ServiceNow](https://developer.servicenow.com/dev.do),  and many others realized that opening up their platforms to developers was an incredible accelerant for their business. For [Stripe](https://stripe.dev/) and [Twillio](https://www.twilio.com/docs/api), the API **IS** the product. You simply can't take advantage of their services without it. This is true for cloud platforms as well--our APIs our the product.
+Companies like [Atlassian](https://developer.atlassian.com/), [ServiceNow](https://developer.servicenow.com/dev.do),  and many others realized that opening up their platforms to developers was an incredible accelerant for their business. For [Stripe](https://stripe.dev/) and [Twillio](https://www.twilio.com/docs/api), their API **IS** the product. You simply can't take advantage of these services without using the API. This is true for cloud platforms as well--our APIs our the product.
 
-As you begin to open up your platform to developers, a logical next step is to focus on creating more consistent APIs, establishing standards across your organization, and creating an experience for developers that makes it easy for them to leverage your service. Ultimately, if your business is growing, you will need to do this at scale. At it's most fundamental, it really comes down to two approaches, and when to apply them: *goverance* or *stewardship*.
+As you begin to open up your platform to developers, a logical next step is to start focusing consistency, establishing standards across your organization, and creating an experience for developers that makes it easy for them to leverage your service. 
 
-The [New Oxford American Dictionary](https://www.oxfordreference.com/) provides the following definitions:
+As your organization grows, there becomes a natural tension between moving quickly and ensuring your standards are met, and the APIs are intuitive. Growth means that more and more teams will be delivering APIs. Each team does things slightly differently and there will be drift from the patterns that you establish. Therefore, a natural tendency is to approve every API that gets delivered to customers. While this might work for a relatively small surface area, it simply does not scale.
 
-> **gov·ern·ance | ˈɡəvərnəns |**
-> *noun*
-> the action or manner of governing: a more responsive system of governance will be required.
-> <br/><sup> archaic sway; control: *what, shall King Henry be a pupil still, under the surly Gloucester's governance?* </sup>
-
+Balancing all the various concerns when building and delivering APIs is a practice we call *stewardship*.
+ >The [New Oxford American Dictionary](https://www.oxfordreference.com/) provides the following definition:
 > stew·ard·ship | ˈsto͞oərdˌSHip |
 > noun
 > the job of supervising or taking care of something, such as an organization or property: responsible stewardship of our public lands
 > <br/><sup> | *[count noun] : he resigned his stewardships at Westminster Abbey and St. Martin's | systemic failures cannot be ascribed to the stewardship of a political party | [as modifier] : Pennsylvania's forest stewardship program.* </sup>
 
-> WIP -- more info on the approaches here
+As your APIs grow and change--especially over time--you will need [roads, gates, and roundabouts](./roads-gates-roundabouts.md). Think about when to [hold the line](./hold-the-line.md) to ensure that breaking changes are effectively identified, managed, communicated. 
 
-The reality is that, as your APIs grow and change--especially over time--you will need to employ both models. You will need to [Hold the line](./Hold-the-line.md) to ensure that breaking changes are effectively identified, managed, communicated. But you won't be able to scale without educating, enabling, and empowering API Stewards within your company.
-
-* Educate. Enable. Empower.
-
-## [Tend the garden](tend-the-garden.md)
-Invest in stewardship
-
-* Measure results
+But you won't be able to scale without [tending the garden](./tend-the-garden.md). For any API practice to be successulf it will need to educate, enable, and empower developers who build and deliver APIs.
