@@ -1,41 +1,37 @@
 # Patterns for creating an API Stewardship Practice
 
-This set of patterns is intended for use by Architects, Developers, and Managers who are building and delivering a large number of services that comprise a platform. These services are built by different, often geo-dispersed teams, with varying levels of skills. Over time, what starts out as an elegant vision of a consistent and beautiful API becomes a hodgepodge of things that look similar but are just different enough to cause friction.
+Thanks for taking a few moments of your time to stop by this repo where we'll be talking about everything it takes to build and deliver APIs at scale. Patterns have impacted many areas of software development and area a great way to express common ideas. In this repo, we are going to try and use this methodology to express what we've learned.
 
-These patterns reflect many of our experiences working on Microsoft's Azure API Stewardship Board. They try to capture the essence of what we've learned from working across the Azure service teams, talking with our customers, field teams, and those in the industry passionate about APIs. They are a key ingredient to how we can scale to deliver thousands of APIs and hundreds of SDKs across the Azure surface area.
+These patterns reflect our journey of working to build and deliver cloud APIs and SDKs at scale. Many are based on working on Microsoft's Azure API Stewardship board. They try to capture our experiences and the essence of what we've learned from working with out Azure service teams, talking with customers, field teams, and those in the industry passionate about APIs. They are a key ingredient to how we can scale to deliver thousands of APIs and hundreds of SDKs across the Azure surface area.
 
-* "Grow an Orchard" -- Stewardship vs. Governance
-  * Educate, enable, empower
-* "Design a Hammer" -- Build an API people know how to use just by looking at it
-  * Naming
-  * Operations (GET, PUT, PATCH, blah blah blah)
-  * Structure
-  * Return values
+We hope these patterns are a starting point for a larger conversation with architects, developers, and managers who are building and delivering a large number of services and struggle with how to scale while still creating a great developer experience.
 
-* "Read the fine print" -- APIs are contracts
-* "Clarity is kindness" -- Create an API Guidelines document
-* "You break it. You bought it." -- Define what a breaking change is. Create a policy around them.
+We have a long way to go and this is definitely a work in progress! In many ways, we are still at the outset of our journey. We are constantly learning, uncovering new requirements, and figuring out what to do with edge cases.
 
-* "One way to skin a cat." -- Create a style guide.
-* "Death by a thousand cuts" -- Strive for consistency across their API surface area
+It's our hope that you will join us on this journey. Please share your experiences (and patterns) through pull requests and add comments through issues. Together, we can all [grow an orchard](./grow-an-orchard.md).
 
-* "Measure twice. Cut once." -- API First Design
-  * Mock servers
-  * Sample code
-  * Get feedback
-* "A rose by any other name" -- Names are important
-  * Core concents - Nouns
-* "Stop. Drop. And Roll" -- Are you building the right thing?  
+---
+## API Practice Patterns
 
-* "Blame the tool" -- Linting
+* [Grow an Orchard](./grow-an-orchard.md)
+  * [Roads, Gates, & Roundabouts](./roads-gates-roundabouts.md)
+  * [Tend the garden](./tend-the-garden.md)
+  * [Read the fine print](./read-the-fine-print.md)
+* [Design a hammer](./design-a-hammer.md)
+  * [Death by a thousand cuts](./death-by-thousand-cuts.md)
+  * [Walk a mile](./walk-a-mile.md)
+* [Clarity is kindness](./clarity-is-kindness.md)
+  * [One way to skin a cat](./one-way-to-skin-a-cat.md)
+  * [Your break it, your bought it](./you-break-it-you-bought-it.md)
+  * [Native tongue](./native-tongue.md)
+* [Blame the tool](./blame-the-tool.md)
+  * [Correct by construction](./correct-by-construction.md)
+  * [Trust, but verify](./trust-but-verify.md)
+* [Fifty shades of grey](./fifty-shades-of-grey.md)
+  * [Hold the line](./hold-the-line.md)
+* [Wash, rinse, repeat](./wash-rinse-repeat.md)
+* [Fish where the fish are](./fish-where-the-fish-are.md)
 
-* "Paint by numbers" -- Correctness by construction (Cadl)
-  * API Definition Language
-* " ?? " -- Idiomatic implementations & SDKs
-  
-* "Wash-Rinse-Repeat" -- Automation for scale
-* "Trust, but verify" -- "Live" validation
-  * API drift
-* "Fish where the fish are" -- Deliver the information where it will be used
-  * Teams/slack integration
-  * Repo pipelines
+---
+## Additional Information & References
+* [References](./references.md)
