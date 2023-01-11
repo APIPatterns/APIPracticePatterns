@@ -1,7 +1,7 @@
 # Wash, Rinse, Repeat
-<sup>Encourage API previews</sup>
+<sup>How to iterate on a preview API</sup>
 
-Set expectations your API will change.
-
-
-"Whiteboard compatible" -- Are you building the right thing? Establish a practice of previewing APIs.
+- Set expectations your API will change.
+- How to support preview APIs when you introduce the next iteration
+  - how long
+  - how to communicate a new version
