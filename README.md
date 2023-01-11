@@ -31,7 +31,8 @@ Together, we can all [grow an orchard](./grow-an-orchard.md).
   * [Trust, but verify](./trust-but-verify.md)
 * [Fifty shades of grey](./fifty-shades-of-grey.md)
   * [Hold the line](./hold-the-line.md)
-* [Wash, rinse, repeat](./wash-rinse-repeat.md)
+* [Look before you leap](./look-before-you-leap.md)  
+  * [Wash, rinse, repeat](./wash-rinse-repeat.md)
 * [Fish where the fish are](./fish-where-the-fish-are.md)
 
 ---
