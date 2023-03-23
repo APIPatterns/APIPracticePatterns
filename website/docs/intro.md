@@ -1,5 +1,8 @@
 ---
 slug: /
+sidebar_position: 1
+sidebar_label: Welcome
+sidebar_class_name: green
 ---
 # Patterns for creating an API Stewardship Practice
 

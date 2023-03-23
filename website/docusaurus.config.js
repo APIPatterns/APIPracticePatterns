@@ -53,7 +53,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/logo.svg',
       navbar: {
         title: 'API Practice Patterns',
         logo: {
@@ -62,7 +62,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/APIPatterns/APIPracticePatterns',
             label: 'GitHub',
             position: 'right',
           },
