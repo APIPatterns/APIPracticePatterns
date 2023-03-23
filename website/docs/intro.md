@@ -1,5 +1,7 @@
-# Welcome
-## Patterns for creating an API Stewardship Practice
+---
+slug: /
+---
+# Patterns for creating an API Stewardship Practice
 
 Thanks for taking a few moments of your time to stop by this repo where we'll be talking about everything it takes to build and deliver APIs at scale. Patterns have impacted many areas of software development and are a great way to express common ideas. In this repo, we are going to try and use this methodology to express what we've learned as we work to put the tools and processes in place to try and help other developers build and deliver better APIs.These patterns reflect our journey of working to build and deliver cloud APIs and SDKs at scale. They are a key ingredient to how we can scale to deliver thousands of APIs and hundreds of SDKs across the Azure surface area.
 
