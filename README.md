@@ -11,31 +11,31 @@ We have a long way to go and this is definitely a work in progress! In many ways
 
 It's our hope that you will join us on this journey. Please share your experiences (and patterns) through pull requests, add comments through [issues](https://github.com/APIPatterns/APIPracticePatterns/issues), or start a [discussion](https://github.com/APIPatterns/APIPracticePatterns/discussions).
 
-Together, we can all [grow an orchard](./grow-an-orchard.md).
+Together, we can all [grow an orchard](./website/docs/grow-an-orchard.md).
 
 ---
 ## API Practice Patterns
 
-* [Grow an Orchard](./grow-an-orchard.md)
-  * [Roads, Gates, & Roundabouts](./roads-gates-roundabouts.md)
-  * [Tend the garden](./tend-the-garden.md)
-  * [Read the fine print](./read-the-fine-print.md)
-* [Design a hammer](./design-a-hammer.md)
-  * [Death by a thousand cuts](./death-by-thousand-cuts.md)
-  * [Walk a mile](./walk-a-mile.md)
-* [Clarity is kindness](./clarity-is-kindness.md)
-  * [One way to skin a cat](./one-way-to-skin-a-cat.md)
-  * [Your break it, your bought it](./you-break-it-you-bought-it.md)
-  * [Native tongue](./native-tongue.md)
-* [Blame the tool](./blame-the-tool.md)
-  * [Correct by construction](./correct-by-construction.md)
-  * [Trust, but verify](./trust-but-verify.md)
-* [Fifty shades of grey](./fifty-shades-of-grey.md)
-  * [Hold the line](./hold-the-line.md)
-* [Look before you leap](./look-before-you-leap.md)  
-  * [Wash, rinse, repeat](./wash-rinse-repeat.md)
-* [Fish where the fish are](./fish-where-the-fish-are.md)
+* [Grow an Orchard](./website/docs/grow-an-orchard.md)
+  * [Roads, Gates, & Roundabouts](./website/docs/roads-gates-roundabouts.md)
+  * [Tend the garden](./website/docs/tend-the-garden.md)
+  * [Read the fine print](./website/docs/read-the-fine-print.md)
+* [Design a hammer](./website/docs/design-a-hammer.md)
+  * [Death by a thousand cuts](./website/docs/death-by-thousand-cuts.md)
+  * [Walk a mile](./website/docs/walk-a-mile.md)
+* [Clarity is kindness](./website/docs/clarity-is-kindness.md)
+  * [One way to skin a cat](./website/docs/one-way-to-skin-a-cat.md)
+  * [Your break it, your bought it](./website/docs/you-break-it-you-bought-it.md)
+  * [Native tongue](./website/docs/native-tongue.md)
+* [Blame the tool](./website/docs/blame-the-tool.md)
+  * [Correct by construction](./website/docs/correct-by-construction.md)
+  * [Trust, but verify](./website/docs/trust-but-verify.md)
+* [Fifty shades of grey](./website/docs/fifty-shades-of-grey.md)
+  * [Hold the line](./website/docs/hold-the-line.md)
+* [Look before you leap](./website/docs/look-before-you-leap.md)  
+  * [Wash, rinse, repeat](./website/docs/wash-rinse-repeat.md)
+* [Fish where the fish are](./website/docs/fish-where-the-fish-are.md)
 
 ---
 ## Additional Information & References
-* [References](./references.md)
+* [References](./website/docs/references.md)
