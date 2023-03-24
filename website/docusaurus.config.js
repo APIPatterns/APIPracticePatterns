@@ -16,7 +16,8 @@ const config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
   trailingSlash: false,
-  
+  deploymentBranch: 'gh-pages',
+
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'APIPatterns', // Usually your GitHub org/user name.
